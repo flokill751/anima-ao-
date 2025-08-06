@@ -1,0 +1,32 @@
+
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #1a1a1a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        
+        .container {
+            text-align: center;
+        }
+        
+        h1 {
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+        
+        #canvas {
+            border: 2px solid #333;
+            background-color: #000;
+            cursor: none;
+        }
+        
+        .instructions {
+            color: #df1d1d;
+            margin-top: 20px;
+            font-size: 14px;
+        }
